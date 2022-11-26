@@ -1,4 +1,4 @@
-// C program to display message on screen
+// C program to display message on screen:
 
 #include <stdio.h>
 

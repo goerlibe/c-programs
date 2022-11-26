@@ -1,4 +1,4 @@
-// C program to convert celsius into fehrenheit
+// C program to convert celsius into fehrenheit:
 
 #include <stdio.h>
 
