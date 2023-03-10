@@ -1,6 +1,5 @@
 // Write C program to find area of sphere:
 
-#include <conio.h>
 #include <stdio.h>
 
 int main()

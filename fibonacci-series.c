@@ -1,7 +1,6 @@
 // C program to print fibonacci series:
 
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {

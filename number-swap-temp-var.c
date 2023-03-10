@@ -1,7 +1,6 @@
 // C program to swap 2 numbers with third(temp) variable:
 
 #include <stdio.h>
-#include <conio.h>
 
 int main()
 {
